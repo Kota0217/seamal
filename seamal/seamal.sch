@@ -727,4 +727,15 @@ F 3 "~" H 2300 6550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 2250 2500
+$Comp
+L Device:LED D?
+U 1 1 6172A662
+P 7100 2650
+F 0 "D?" H 7093 2867 50  0000 C CNN
+F 1 "LED" H 7093 2776 50  0000 C CNN
+F 2 "" H 7100 2650 50  0001 C CNN
+F 3 "~" H 7100 2650 50  0001 C CNN
+	1    7100 2650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
